@@ -1,3 +1,3 @@
-This is file containing some python examples for beginers# 
+This is file containing some python examples for beginners# 
 
 pythonexamples
